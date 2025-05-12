@@ -1,4 +1,6 @@
 # Ignore MIMIC-IV raw and derived data
+data/raw/*
+data/wrangled/*
 data/mimic-iv/*
 data/processed/*
 *.csv
