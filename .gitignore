@@ -1,0 +1,7 @@
+# Ignore MIMIC-IV raw and derived data
+data/mimic-iv/*
+data/processed/*
+*.csv
+*.pkl
+# Ignore model weights (optional)
+*.pth
